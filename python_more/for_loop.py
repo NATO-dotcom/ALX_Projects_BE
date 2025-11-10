@@ -42,7 +42,8 @@ for x in fruits:
     continue
   print(x)
 
-  #multiplication tablefor i in range(1, 11):
+# multiplication table
+for i in range(1, 11):
   # Outer loop iterates through rows (multiplication factors)
   for j in range(1, 11):
     # Inner loop iterates through columns (other factors)
