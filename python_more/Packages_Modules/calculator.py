@@ -1,8 +1,8 @@
 # calculator.py
 #user input
-a = float(input("Enter first number: "))
-b = float(input("Enter second number: "))
-operation = input("Enter operation (+, -, *, /): ")
+#a = float(input("Enter first number: "))
+#b = float(input("Enter second number: "))
+#operation = input("Enter operation (+, -, *, /): ")
 # functions for operations
 def add(a, b):
     return a + b
